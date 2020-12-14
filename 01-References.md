@@ -1,5 +1,5 @@
-Références
-==========
+Chap 1 - Références
+===================
 
 Ce cours est une introduction au langage JavaScript, tirée du livre de
 Baptiste Pesquet, The JavaScript Way.

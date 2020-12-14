@@ -1,5 +1,5 @@
-Environnement de programmation
-==============================
+Chap 3 - Environnement de programmation
+=======================================
 
 Le pré-requis essentiel pour suivre ce cours est d'utiliser un
 [navigateur web](https://fr.wikipedia.org/wiki/Navigateur_web) récent.

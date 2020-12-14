@@ -1,8 +1,8 @@
-Présentation de JavaScript
-==========================
+Chap 2 - Historique
+===================
 
-Histoire de JavaScript
-----------------------
+Aux origines
+------------
 
 JavaScript est avant tout le langage de programmation du Web. Il a été
 inventé en 1995 par [Brendan

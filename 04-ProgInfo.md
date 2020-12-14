@@ -1,5 +1,5 @@
-PROGRAMME Informatique
-======================
+Chap 4 - PROGRAMME Informatique
+===============================
 
 C'est le moment de faire vos premiers pas avec JavaScript !
 
