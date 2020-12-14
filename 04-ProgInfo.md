@@ -1,5 +1,8 @@
-Chap 4 - PROGRAMME Informatique
+Chap 4 - Programme Informatique
 ===============================
+
+![JavascriptLogo](images/Logo-JS_150px.png)
+![Niveau1Logo](images/Logo-N1_150px.png)
 
 C'est le moment de faire vos premiers pas avec JavaScript !
 

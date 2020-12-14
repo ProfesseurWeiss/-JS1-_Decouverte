@@ -1,5 +1,11 @@
+Javascript - découverte
+=======================
+
+![JavascriptLogo](images/Logo-JS_150px.png)
+![Niveau1Logo](images/Logo-N1_150px.png)
+
 Sommaire
-========
+--------
 
 [Chap 1 - Références](01-References.md)
 

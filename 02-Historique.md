@@ -1,6 +1,9 @@
 Chap 2 - Historique
 ===================
 
+![JavascriptLogo](images/Logo-JS_150px.png)
+![Niveau1Logo](images/Logo-N1_150px.png)
+
 Aux origines
 ------------
 

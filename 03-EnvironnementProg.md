@@ -1,6 +1,9 @@
 Chap 3 - Environnement de programmation
 =======================================
 
+![JavascriptLogo](images/Logo-JS_150px.png)
+![Niveau1Logo](images/Logo-N1_150px.png)
+
 Le pré-requis essentiel pour suivre ce cours est d'utiliser un
 [navigateur web](https://fr.wikipedia.org/wiki/Navigateur_web) récent.
 Plus précisément, votre navigateur doit être capable d'exécuter du code
