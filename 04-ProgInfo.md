@@ -1,5 +1,5 @@
-PROGRAMME
-=========
+PROGRAMME Informatique
+======================
 
 C'est le moment de faire vos premiers pas avec JavaScript !
 
